@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "f9fccfcff1"
   },
   "options": {
     "autoRead": false,
@@ -10,11 +10,11 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "kbot",
+    "author": "K"
   },
   "owner": [
-    "62812xxx"
+    "6285658019360"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://zenzapis.xyz"
